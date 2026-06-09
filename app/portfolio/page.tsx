@@ -27,6 +27,30 @@ export default function PortfolioPage() {
       type: "image",
     },
     {
+      id: 38,
+      category: "brand Collaborations",
+      image: "/aerocom.jpeg",
+      type: "image",
+    },
+    {
+      id: 39,
+      category: "brand Collaborations",
+      image: "/alif.jpeg",
+      type: "image",
+    },
+    {
+      id: 40,
+      category: "brand Collaborations",
+      image: "/style-bazar.jpeg",
+      type: "image",
+    },
+    {
+      id: 41,
+      category: "brand Collaborations",
+      image: "/vibes.jpeg",
+      type: "image",
+    },
+    {
       id: 2,
       category: "Event Appearances",
       image: "/event-4.jpg",

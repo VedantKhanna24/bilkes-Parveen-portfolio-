@@ -52,6 +52,14 @@ export default function AboutPage() {
       icon: Award,
       image: "/prabhuji.jpg?height=300&width=400",
     },
+    {
+      year: "2026",
+      title: "P&C Calendar",
+      description:
+        "P&C Calendar in association with KSCH (Kolkata Cultural Heritage Edition)",
+      icon: Award,
+      image: "/WhatsApp Image 2026-06-09 at 9.50.38 PM.jpeg?height=300&width=400",
+    },
   ];
 
   return (
