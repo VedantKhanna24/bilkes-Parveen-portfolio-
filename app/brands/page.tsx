@@ -5,6 +5,12 @@ import { Badge } from "@/components/ui/badge";
 
 export default function BrandsPage() {
   const brands = [
+    "Harrison Locks",
+    "Vibes",
+    "Style bazar",
+    "Aerocom",
+    "KLM fashion",
+    "Alif House of Fashion",
     "Minu",
     "Obako",
     "Oui & Me",
