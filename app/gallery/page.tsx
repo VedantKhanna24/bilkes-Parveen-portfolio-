@@ -23,6 +23,14 @@ export default function GalleryPage() {
     },
     {
       id: 3,
+      src: "/gallery-1.jpeg",
+    },
+    {
+      id: 4,
+      src: "/gallery-2.jpeg",
+    },
+    {
+      id: 3,
       src: "/gallery/WhatsApp Image 2025-12-22 at 8.57.18 PM.jpeg",
     },
     {

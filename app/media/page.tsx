@@ -14,6 +14,7 @@ export default function MediaAwardsPage() {
   ];
   const awardImages = [
     "/paper.jpeg",
+     "/award-7.jpeg",
     "/WhatsApp Image 2025-12-14 at 22.51.27_88feadcd.jpg",
     "/WhatsApp Image 2025-12-14 at 22.52.17_fcb71665.jpg",
     "/WhatsApp Image 2025-12-14 at 22.58.42_31946ba2.jpg",
