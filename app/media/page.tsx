@@ -10,6 +10,7 @@ export default function MediaAwardsPage() {
     "/media-3.jpg",
     "/media-4.jpg",
     "/media-5.jpeg",
+    "/media-6.jpeg",
   ];
   const awardImages = [
     "/paper.jpeg",

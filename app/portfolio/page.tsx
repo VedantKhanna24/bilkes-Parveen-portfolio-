@@ -265,6 +265,36 @@ export default function PortfolioPage() {
       category: "Emcee",
       image: "/emcee-6.jpeg",
       type: "image",
+    },
+    {
+      id: 38,
+      category: "Event Appearances",
+      image: "/event-8.jpeg",
+      type: "image",
+    },
+    {
+      id: 39,      
+      category: "Personality Development Sessions",
+      image: "/personality.jpeg",
+      type: "image",
+    },
+    {
+      id: 40,
+      category: "Pageant grooming",
+      image: "/peagent.jpeg",
+      type: "image",
+    },
+    {
+      id: 41,
+      category: "Modelling",
+      image: "/model-6.jpeg",
+      type: "image",
+    },
+    {
+      id: 42,
+      category: "Event Appearances",
+      image: "/event-9.jpeg",
+      type: "image",
     }
   ]
 
@@ -307,7 +337,7 @@ export default function PortfolioPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {filteredItems.map((item) => (
-              <div key={item.id} className="group cursor-pointer" onClick={() => setLightboxImage(item.image)}>
+              <div key={`${item.id}-${item.image}`} className="group cursor-pointer" onClick={() => setLightboxImage(item.image ?? null)}>
                 <div className="relative aspect-[4/5] overflow-hidden rounded-lg shadow-lg">
                   <Image
                     src={item.image || "/placeholder.svg"}
