@@ -270,7 +270,7 @@ export default function ContactPage() {
 
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4">
             {[
-              "IMG-20250818-WA0007.jpg",
+              "gallery/WhatsApp Image 2025-12-22 at 8.57.21 PM.jpeg",
               "IMG-20250818-WA0025.jpg",
               "IMG-20250818-WA0009.jpg",
               "IMG-20250818-WA0034.jpg",
@@ -278,7 +278,7 @@ export default function ContactPage() {
               "IMG-20250818-WA0014.jpg",
               "IMG-20250818-WA0060.jpg",
               "IMG-20250818-WA0186.jpg",
-              "IMG-20250818-WA0018.jpg",
+              "gallery/WhatsApp Image 2025-12-22 at 9.02.16 PM (2).jpeg",
               "IMG-20250818-WA0194.jpg",
               "IMG-20250818-WA0051.jpg",
               "IMG-20250818-WA0023.jpg"

@@ -11,9 +11,9 @@ export function CTASection() {
           interested in brand collaborations, let's create something extraordinary together.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
-          <Button asChild size="lg" className="bg-rose-gold hover:bg-rose-gold/90 text-white text-lg px-8 py-3">
+          {/* <Button asChild size="lg" className="bg-rose-gold hover:bg-rose-gold/90 text-white text-lg px-8 py-3">
             <Link href="/services">Explore Services</Link>
-          </Button>
+          </Button> */}
           <Button
             asChild
             size="lg"
